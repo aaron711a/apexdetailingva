@@ -1,0 +1,10 @@
+/Pics/
+/qa/
+/.tools/
+/README.md
+/SECURITY-AUDIT.md
+/node_modules/
+.env
+.env.*
+*.pem
+*.key
